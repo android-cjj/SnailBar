@@ -18,6 +18,21 @@ This is my implementation effect
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/14/151339qunvu66u2ruknr6n.gif)
 
+how to use ?
+-------------------------------------------------------
+in layout.xml
+```xml
+   <com.cjj.SnailBar
+            android:id="@+id/seekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:thumb="@anim/snailanim" />
+```
+Because SnailBar is a subclass of Seekbar, so you can use it like Seekbar
+```java
+  seekBar = (SeekBar) findViewById(R.id.seekBar);
+  ```
+  
 
 
 
