@@ -2,7 +2,7 @@ SnailBar
 ====================================================
 A lovely ![](http://www.apkbus.com/data/attachment/forum/201509/14/151713juzbb33ywz337ajr.png) ,you can use it as a seekbar or progressbar.
 ---------------------------------------------------------------------------------
-[Helixbar](https://dribbble.com/shots/541530-Helixbar) design by Davlikanoff Design.This is his words：
+[Helixbar](https://dribbble.com/shots/541530-Helixbar) design by Davlikanoff.This is his words：
 
 Hi Guys! 
 
@@ -16,7 +16,7 @@ Hope you like it.
 
 ![](http://www.apkbus.com/data/attachment/forum/201509/14/152642n3a5kvn36a6v3m3a.gif)
 
-But I like snail, so he called SnailBar.
+But I like snail,So it's called SnailBar.
 
 This is my implementation effect
 ----------------------------------------------------------------
@@ -37,6 +37,10 @@ Because SnailBar is a subclass of Seekbar, so you can use it like Seekbar
 ```java
   seekBar = (SeekBar) findViewById(R.id.seekBar);
   ```
+  
+  AT LAST
+  ========================================================
+  If you want to support me,you can follow me on Github.
   
 
 
