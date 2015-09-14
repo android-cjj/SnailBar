@@ -13,6 +13,10 @@ Hope you like it.
 
 But I like snail, so he called SnailBar.
 
+This is my implementation effect
+----------------------------------------------------------------![](http://www.apkbus.com/data/attachment/forum/201509/14/151339qunvu66u2ruknr6n.gif)
+
+
 
 
 
