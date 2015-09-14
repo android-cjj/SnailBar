@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#deeaeb"
+
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:id="@+id/seekbar_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SnailBar"
+            />
+        <TextView
+            android:textSize="14sp"
+            android:id="@+id/seekbar_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="snailbar status"
+            />
+
+        <com.cjj.SnailBar
+            android:layout_marginTop="30dp"
+            android:id="@+id/seekBar"
+            android:thumb="@anim/snailanim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ></com.cjj.SnailBar>
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
