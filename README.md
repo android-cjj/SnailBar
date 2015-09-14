@@ -1,6 +1,6 @@
 SnailBar
 ====================================================
-A lovely snail![](http://www.apkbus.com/data/attachment/forum/201509/14/151713juzbb33ywz337ajr.png),You can use it as a seekbar or progressbar.
+A lovely ![](http://www.apkbus.com/data/attachment/forum/201509/14/151713juzbb33ywz337ajr.png),You can use it as a seekbar or progressbar.
 ---------------------------------------------------------------------------------
 [Helixbar](https://dribbble.com/shots/541530-Helixbar) design by Davlikanoff Design.This is his words：
 Hi Guys! 
