@@ -40,6 +40,7 @@ Because SnailBar is a subclass of Seekbar, so you can use it like Seekbar
   
   AT LAST
   ========================================================
+  
   If you want to support me,you can follow me on Github.
   
 
