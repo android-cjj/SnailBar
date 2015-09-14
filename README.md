@@ -37,10 +37,10 @@ Because SnailBar is a subclass of Seekbar, so you can use it like Seekbar
 ```java
   seekBar = (SeekBar) findViewById(R.id.seekBar);
   ```
-  
-  AT LAST
-  =========
-  If you want to support me,you can follow me on Github.
+
+AT LAST
+==============================================================
+If you want to support me,you can follow me on Github.
   
 
 
