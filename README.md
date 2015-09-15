@@ -37,6 +37,9 @@ Because SnailBar is a subclass of Seekbar, so you can use it like Seekbar
 ```java
   seekBar = (SeekBar) findViewById(R.id.seekBar);
   ```
+  
+[about me](http://android-cjj.github.io/)
+------------------------------------
 
 AT LAST
 ==============================================================
