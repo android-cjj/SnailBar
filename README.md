@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/android-cjj/SnailBar.svg?branch=master)](http://www.android-gems.com/lib/android-cjj/SnailBar)
+
 SnailBar
 ====================================================
 A lovely ![](http://www.apkbus.com/data/attachment/forum/201509/14/151713juzbb33ywz337ajr.png) ,you can use it as a seekbar or progressbar.
