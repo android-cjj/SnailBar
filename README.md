@@ -35,7 +35,7 @@ in layout.xml
             android:layout_height="wrap_content"
             android:thumb="@anim/snailanim" />
 ```
-Because SnailBar is a subclass of Seekbar, so you can use it like Seekbar
+SnailBar is a subclass of Seekbar, so you can use it like Seekbar
 ```java
   seekBar = (SeekBar) findViewById(R.id.seekBar);
   ```
