@@ -1,4 +1,5 @@
-[![Android Gems](http://www.android-gems.com/badge/android-cjj/SnailBar.svg?branch=master)](http://www.android-gems.com/lib/android-cjj/SnailBar)
+[![Android Gems](http://www.android-gems.com/badge/android-cjj/SnailBar.svg?branch=master)](http://www.android-gems.com/lib/android-cjj/SnailBar) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SnailBar-brightgreen.svg?style=flat)](http://www.android-arsenal.com/details/1/2487)
+
 
 SnailBar
 ====================================================
